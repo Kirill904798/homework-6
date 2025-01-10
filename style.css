@@ -1,0 +1,15 @@
+header {
+    background-color: red;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+section{
+    text-decoration: line-through;
+    align-items: center;
+}
+footer{
+    align-items: center;
+    text-decoration: underline;
+
+}
